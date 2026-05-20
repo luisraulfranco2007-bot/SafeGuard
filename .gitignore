@@ -12,5 +12,6 @@ venv.bak/
 .vscode/
 build/
 dist/
+!dist/safeguard_manager.exe
 Thumbs.db
 .DS_Store

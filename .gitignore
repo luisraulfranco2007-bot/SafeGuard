@@ -10,5 +10,7 @@ env.bak/
 venv.bak/
 .idea/
 .vscode/
+build/
+dist/
 Thumbs.db
 .DS_Store
